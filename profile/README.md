@@ -48,8 +48,8 @@ All the repositories under the **CodeByToe** organization are open-source, unles
 
 ## Contact
 
-- **Organization Website**: [Your website URL here, if any]
-- **Email**: [Your contact email]
+- **Organization Website**: [https://github.com/CodeByToe]
+- **Email**: [itoewai@gmail.com]
 
 ---
 
